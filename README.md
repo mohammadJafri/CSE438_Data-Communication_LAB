@@ -69,7 +69,7 @@
     <tr>
         <td>Week1</td>
         <td>Lab1</td>
-        <td>Introduction to HTML</td>
+        <td>Introduction to Protocols and Application Layer Networking</td>
         <td>16.06.2019</td> 
     </tr>
     <tr>
